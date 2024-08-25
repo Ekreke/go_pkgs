@@ -1,0 +1,2 @@
+io is a standard library from google.  https://pkg.go.dev/io
+io is a package that provides basic functions for I/O operations.Its wrap existing implentation of such primitives in package os.And beacuse of this, unless otherwise informed , users should not assume they are safe for parallel execution.
